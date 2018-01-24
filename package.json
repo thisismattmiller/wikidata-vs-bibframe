@@ -1,0 +1,24 @@
+{
+  "name": "wikidata-vs-bibframe",
+  "version": "1.0.0",
+  "description": "Comparing wikidata properties to the Bibframe ontology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisismattmiller/wikidata-vs-bibframe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisismattmiller/wikidata-vs-bibframe/issues"
+  },
+  "homepage": "https://github.com/thisismattmiller/wikidata-vs-bibframe#readme",
+  "dependencies": {
+    "highland": "^2.11.1",
+    "request": "^2.83.0",
+    "wikidata-sdk": "^5.7.5"
+  }
+}

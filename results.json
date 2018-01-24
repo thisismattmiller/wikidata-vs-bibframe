@@ -1,0 +1,2234 @@
+{
+  "P31 -  instance of": {
+    "count": 105509,
+    "percent": 99.99905222253814
+  },
+  "P50 -  author": {
+    "count": 78540,
+    "percent": 74.43844185385271
+  },
+  "P577 -  publication date": {
+    "count": 55834,
+    "percent": 52.918206805042175
+  },
+  "P407 -  language of work or name": {
+    "count": 52369,
+    "percent": 49.634157899725146
+  },
+  "P136 -  genre": {
+    "count": 52171,
+    "percent": 49.44649796227846
+  },
+  "P495 -  country of origin": {
+    "count": 35076,
+    "percent": 33.244242251919246
+  },
+  "P123 -  publisher": {
+    "count": 32629,
+    "percent": 30.925030802767512
+  },
+  "P212 -  ISBN-13": {
+    "count": 25403,
+    "percent": 24.076390863425267
+  },
+  "P243 -  OCLC control number": {
+    "count": 23744,
+    "percent": 22.50402805421287
+  },
+  "P957 -  ISBN-10": {
+    "count": 18090,
+    "percent": 17.145294284901905
+  },
+  "P1476 -  title": {
+    "count": 12237,
+    "percent": 11.5979528006824
+  },
+  "P155 -  follows": {
+    "count": 10613,
+    "percent": 10.058762202634822
+  },
+  "P179 -  series": {
+    "count": 9899,
+    "percent": 9.382049094872524
+  },
+  "P156 -  followed by": {
+    "count": 9523,
+    "percent": 9.025684769216188
+  },
+  "P921 -  main subject": {
+    "count": 7790,
+    "percent": 7.383186427826746
+  },
+  "P646 -  Freebase ID": {
+    "count": 7008,
+    "percent": 6.642024452658515
+  },
+  "P1104 -  number of pages": {
+    "count": 6484,
+    "percent": 6.14538906264809
+  },
+  "P840 -  narrative location": {
+    "count": 4490,
+    "percent": 4.255520803715288
+  },
+  "P361 -  part of": {
+    "count": 4484,
+    "percent": 4.249834138944176
+  },
+  "P478 -  volume": {
+    "count": 3336,
+    "percent": 3.161785612738129
+  },
+  "P18 -  image": {
+    "count": 3098,
+    "percent": 2.9362145768173633
+  },
+  "P291 -  place of publication": {
+    "count": 3022,
+    "percent": 2.8641834897166145
+  },
+  "P4222 -  United Nations Treaty Series Volume Number": {
+    "count": 2931,
+    "percent": 2.7779357406880862
+  },
+  "P1417 -  Encyclopædia Britannica Online ID": {
+    "count": 2795,
+    "percent": 2.6490380058762204
+  },
+  "P268 -  BnF ID": {
+    "count": 2301,
+    "percent": 2.1808359397213537
+  },
+  "P110 -  illustrator": {
+    "count": 2159,
+    "percent": 2.0462515401383756
+  },
+  "P736 -  cover artist": {
+    "count": 2157,
+    "percent": 2.0443559852146715
+  },
+  "P571 -  inception": {
+    "count": 2085,
+    "percent": 1.9761160079613305
+  },
+  "P373 -  Commons category": {
+    "count": 1819,
+    "percent": 1.7240072031087101
+  },
+  "P3959 -  NNL work ID": {
+    "count": 1782,
+    "percent": 1.6889394370201878
+  },
+  "P674 -  characters": {
+    "count": 1726,
+    "percent": 1.635863899156478
+  },
+  "P856 -  official website": {
+    "count": 1652,
+    "percent": 1.5657283669794333
+  },
+  "P214 -  VIAF ID": {
+    "count": 1556,
+    "percent": 1.4747417306416453
+  },
+  "P1680 -  subtitle": {
+    "count": 1354,
+    "percent": 1.28329068334755
+  },
+  "P1274 -  ISFDB title ID": {
+    "count": 1310,
+    "percent": 1.241588475026064
+  },
+  "P166 -  award received": {
+    "count": 1296,
+    "percent": 1.2283195905601365
+  },
+  "P648 -  Open Library ID": {
+    "count": 1258,
+    "percent": 1.1923040470097621
+  },
+  "P747 -  edition": {
+    "count": 1142,
+    "percent": 1.082361861434935
+  },
+  "P98 -  editor": {
+    "count": 1136,
+    "percent": 1.0766751966638233
+  },
+  "P227 -  GND ID": {
+    "count": 1080,
+    "percent": 1.0235996588001137
+  },
+  "P2034 -  Project Gutenberg ebook ID": {
+    "count": 1047,
+    "percent": 0.9923230025589992
+  },
+  "P953 -  full work available at": {
+    "count": 1002,
+    "percent": 0.9496730167756611
+  },
+  "P3417 -  Quora topic ID": {
+    "count": 940,
+    "percent": 0.8909108141408397
+  },
+  "P1085 -  LibraryThing work ID": {
+    "count": 897,
+    "percent": 0.8501563832812056
+  },
+  "P675 -  Google Books ID": {
+    "count": 705,
+    "percent": 0.6681831106056298
+  },
+  "P996 -  scanned file on Wikimedia Commons": {
+    "count": 702,
+    "percent": 0.665339778220074
+  },
+  "P195 -  collection": {
+    "count": 573,
+    "percent": 0.5430764856411714
+  },
+  "P910 -  topic's main category": {
+    "count": 534,
+    "percent": 0.5061131646289452
+  },
+  "P1433 -  published in": {
+    "count": 533,
+    "percent": 0.5051653871670931
+  },
+  "P435 -  MusicBrainz work ID": {
+    "count": 493,
+    "percent": 0.4672542886930149
+  },
+  "P244 -  Library of Congress authority ID": {
+    "count": 490,
+    "percent": 0.464410956307459
+  },
+  "P17 -  country": {
+    "count": 481,
+    "percent": 0.4558809591507914
+  },
+  "P724 -  Internet Archive ID": {
+    "count": 464,
+    "percent": 0.4397687422993081
+  },
+  "P170 -  creator": {
+    "count": 440,
+    "percent": 0.4170220832148612
+  },
+  "P217 -  inventory number": {
+    "count": 429,
+    "percent": 0.4065965311344896
+  },
+  "P276 -  location": {
+    "count": 423,
+    "percent": 0.4009098663633779
+  },
+  "P269 -  SUDOC authorities": {
+    "count": 407,
+    "percent": 0.3857454269737466
+  },
+  "P2969 -  Goodreads book ID": {
+    "count": 385,
+    "percent": 0.36489432281300355
+  },
+  "P1036 -  Dewey Decimal Classification": {
+    "count": 363,
+    "percent": 0.34404321865226045
+  },
+  "P2093 -  author name string": {
+    "count": 359,
+    "percent": 0.3402521088048526
+  },
+  "P1144 -  LCOC LCCN (bibliographic)": {
+    "count": 354,
+    "percent": 0.3355132214955928
+  },
+  "P57 -  director": {
+    "count": 331,
+    "percent": 0.3137143398729978
+  },
+  "P973 -  described at URL": {
+    "count": 319,
+    "percent": 0.3023410103307743
+  },
+  "P1434 -  takes place in fictional universe": {
+    "count": 311,
+    "percent": 0.2947587906359587
+  },
+  "P950 -  BNE ID": {
+    "count": 309,
+    "percent": 0.29286323571225475
+  },
+  "P1889 -  different from": {
+    "count": 292,
+    "percent": 0.27675101886077147
+  },
+  "P527 -  has part": {
+    "count": 267,
+    "percent": 0.2530565823144726
+  },
+  "P1705 -  native label": {
+    "count": 255,
+    "percent": 0.24168325277224909
+  },
+  "P345 -  IMDb ID": {
+    "count": 255,
+    "percent": 0.24168325277224909
+  },
+  "P364 -  original language of work": {
+    "count": 252,
+    "percent": 0.2388399203866932
+  },
+  "P1343 -  described by source": {
+    "count": 249,
+    "percent": 0.23599658800113732
+  },
+  "P1149 -  Library of Congress Classification": {
+    "count": 248,
+    "percent": 0.23504881053928536
+  },
+  "P1957 -  Wikisource index page": {
+    "count": 247,
+    "percent": 0.23410103307743343
+  },
+  "P655 -  translator": {
+    "count": 237,
+    "percent": 0.22462325845891384
+  },
+  "P304 -  page(s)": {
+    "count": 237,
+    "percent": 0.22462325845891384
+  },
+  "P2465 -  Allcinema film ID": {
+    "count": 232,
+    "percent": 0.21988437114965406
+  },
+  "P186 -  material used": {
+    "count": 230,
+    "percent": 0.21798881622595015
+  },
+  "P135 -  movement": {
+    "count": 226,
+    "percent": 0.21419770637854232
+  },
+  "P1545 -  series ordinal": {
+    "count": 216,
+    "percent": 0.20471993176002273
+  },
+  "P1025 -  SUDOC editions": {
+    "count": 205,
+    "percent": 0.1942943796796512
+  },
+  "P1435 -  heritage designation": {
+    "count": 201,
+    "percent": 0.1905032698322434
+  },
+  "P1985 -  Anime News Network anime ID": {
+    "count": 186,
+    "percent": 0.17628660790446402
+  },
+  "P1143 -  BN (Argentine) editions": {
+    "count": 184,
+    "percent": 0.17439105298076013
+  },
+  "P481 -  Palissy ID": {
+    "count": 183,
+    "percent": 0.17344327551890815
+  },
+  "P393 -  edition number": {
+    "count": 180,
+    "percent": 0.17059994313335228
+  },
+  "P2002 -  Twitter username": {
+    "count": 179,
+    "percent": 0.16965216567150032
+  },
+  "P180 -  depicts": {
+    "count": 176,
+    "percent": 0.16680883328594445
+  },
+  "P138 -  named after": {
+    "count": 170,
+    "percent": 0.16112216851483271
+  },
+  "P629 -  edition or translation of": {
+    "count": 166,
+    "percent": 0.1573310586674249
+  },
+  "P2603 -  Kinopoisk film ID": {
+    "count": 156,
+    "percent": 0.14785328404890533
+  },
+  "P144 -  based on": {
+    "count": 152,
+    "percent": 0.14406217420149747
+  },
+  "P528 -  catalog code": {
+    "count": 140,
+    "percent": 0.132688844659274
+  },
+  "P3634 -  The Met object ID": {
+    "count": 123,
+    "percent": 0.11657662780779073
+  },
+  "P1411 -  nominated for": {
+    "count": 123,
+    "percent": 0.11657662780779073
+  },
+  "P3138 -  OFDb ID": {
+    "count": 122,
+    "percent": 0.11562885034593878
+  },
+  "P356 -  DOI": {
+    "count": 122,
+    "percent": 0.11562885034593878
+  },
+  "P2048 -  height": {
+    "count": 120,
+    "percent": 0.11373329542223486
+  },
+  "P101 -  field of work": {
+    "count": 115,
+    "percent": 0.10899440811297507
+  },
+  "P161 -  cast member": {
+    "count": 113,
+    "percent": 0.10709885318927116
+  },
+  "P1844 -  HathiTrust ID": {
+    "count": 111,
+    "percent": 0.10520329826556724
+  },
+  "P436 -  MusicBrainz release group ID": {
+    "count": 108,
+    "percent": 0.10235996588001137
+  },
+  "P872 -  printed by": {
+    "count": 106,
+    "percent": 0.10046441095630745
+  },
+  "P935 -  Commons gallery": {
+    "count": 102,
+    "percent": 0.09667330110889963
+  },
+  "P2699 -  URL": {
+    "count": 95,
+    "percent": 0.09003885887593593
+  },
+  "P1292 -  DNB editions": {
+    "count": 90,
+    "percent": 0.08529997156667614
+  },
+  "P58 -  screenwriter": {
+    "count": 86,
+    "percent": 0.08150886171926831
+  },
+  "P1922 -  first line": {
+    "count": 83,
+    "percent": 0.07866552933371244
+  },
+  "P3589 -  GCD series ID": {
+    "count": 83,
+    "percent": 0.07866552933371244
+  },
+  "P2008 -  IPNI publication ID": {
+    "count": 80,
+    "percent": 0.07582219694815658
+  },
+  "P1984 -  Anime News Network manga ID": {
+    "count": 79,
+    "percent": 0.07487441948630462
+  },
+  "P2635 -  number of parts of a work of art": {
+    "count": 79,
+    "percent": 0.07487441948630462
+  },
+  "P2049 -  width": {
+    "count": 75,
+    "percent": 0.0710833096388968
+  },
+  "P1242 -  Theatricalia play ID": {
+    "count": 73,
+    "percent": 0.06918775471519287
+  },
+  "P409 -  NLA (Australia) ID": {
+    "count": 72,
+    "percent": 0.06823997725334092
+  },
+  "P2679 -  author of foreword": {
+    "count": 72,
+    "percent": 0.06823997725334092
+  },
+  "P2529 -  ČSFD film ID": {
+    "count": 71,
+    "percent": 0.06729219979148895
+  },
+  "P3184 -  Czech National Bibliography book ID": {
+    "count": 70,
+    "percent": 0.066344422329637
+  },
+  "P2408 -  set in period": {
+    "count": 67,
+    "percent": 0.06350108994408113
+  },
+  "P1813 -  short name": {
+    "count": 64,
+    "percent": 0.06065775755852526
+  },
+  "P3143 -  elFilm film ID": {
+    "count": 64,
+    "percent": 0.06065775755852526
+  },
+  "P1182 -  LIBRIS editions": {
+    "count": 63,
+    "percent": 0.0597099800966733
+  },
+  "P1113 -  number of episodes": {
+    "count": 62,
+    "percent": 0.05876220263482134
+  },
+  "P725 -  voice actor": {
+    "count": 59,
+    "percent": 0.05591887024926547
+  },
+  "P2013 -  Facebook profile ID": {
+    "count": 59,
+    "percent": 0.05591887024926547
+  },
+  "P1296 -  Gran Enciclopèdia Catalana ID": {
+    "count": 58,
+    "percent": 0.054971092787413516
+  },
+  "P2671 -  Google Knowledge Graph identifier": {
+    "count": 57,
+    "percent": 0.05402331532556155
+  },
+  "P462 -  color": {
+    "count": 57,
+    "percent": 0.05402331532556155
+  },
+  "P275 -  license": {
+    "count": 56,
+    "percent": 0.0530755378637096
+  },
+  "P2581 -  BabelNet id": {
+    "count": 54,
+    "percent": 0.05117998294000568
+  },
+  "P449 -  original network": {
+    "count": 53,
+    "percent": 0.05023220547815373
+  },
+  "P906 -  SELIBR": {
+    "count": 53,
+    "percent": 0.05023220547815373
+  },
+  "P641 -  sport": {
+    "count": 52,
+    "percent": 0.04928442801630178
+  },
+  "P175 -  performer": {
+    "count": 52,
+    "percent": 0.04928442801630178
+  },
+  "P1562 -  AllMovie movie ID": {
+    "count": 51,
+    "percent": 0.048336650554449814
+  },
+  "P86 -  composer": {
+    "count": 49,
+    "percent": 0.0464410956307459
+  },
+  "P4110 -  Crunchyroll ID": {
+    "count": 48,
+    "percent": 0.045493318168893945
+  },
+  "P2720 -  embed URL template": {
+    "count": 47,
+    "percent": 0.04454554070704199
+  },
+  "P349 -  NDL Auth ID": {
+    "count": 46,
+    "percent": 0.04359776324519003
+  },
+  "P1258 -  Rotten Tomatoes ID": {
+    "count": 45,
+    "percent": 0.04264998578333807
+  },
+  "P1970 -  MovieMeter Movie ID": {
+    "count": 45,
+    "percent": 0.04264998578333807
+  },
+  "P3219 -  Encyclopædia Universalis Online ID": {
+    "count": 42,
+    "percent": 0.0398066533977822
+  },
+  "P2860 -  cites": {
+    "count": 42,
+    "percent": 0.0398066533977822
+  },
+  "P360 -  is a list of": {
+    "count": 42,
+    "percent": 0.0398066533977822
+  },
+  "P279 -  subclass of": {
+    "count": 42,
+    "percent": 0.0398066533977822
+  },
+  "P941 -  inspired by": {
+    "count": 41,
+    "percent": 0.038858875935930244
+  },
+  "P480 -  FilmAffinity ID": {
+    "count": 40,
+    "percent": 0.03791109847407829
+  },
+  "P3976 -  BVMC work ID": {
+    "count": 39,
+    "percent": 0.03696332101222633
+  },
+  "P1424 -  topic's main template": {
+    "count": 38,
+    "percent": 0.03601554355037437
+  },
+  "P949 -  National Library of Israel ID": {
+    "count": 38,
+    "percent": 0.03601554355037437
+  },
+  "P767 -  contributor(s) to the creative work": {
+    "count": 37,
+    "percent": 0.03506776608852241
+  },
+  "P580 -  start time": {
+    "count": 37,
+    "percent": 0.03506776608852241
+  },
+  "P2047 -  duration": {
+    "count": 36,
+    "percent": 0.03411998862667046
+  },
+  "P1814 -  name in kana": {
+    "count": 36,
+    "percent": 0.03411998862667046
+  },
+  "P3569 -  Cultureel Woordenboek identifier": {
+    "count": 36,
+    "percent": 0.03411998862667046
+  },
+  "P825 -  dedicated to": {
+    "count": 36,
+    "percent": 0.03411998862667046
+  },
+  "P1044 -  SWB editions": {
+    "count": 35,
+    "percent": 0.0331722111648185
+  },
+  "P750 -  distributor": {
+    "count": 35,
+    "percent": 0.0331722111648185
+  },
+  "P1150 -  Regensburg Classification": {
+    "count": 35,
+    "percent": 0.0331722111648185
+  },
+  "P1815 -  RSL scanned book's identifier": {
+    "count": 34,
+    "percent": 0.03222443370296654
+  },
+  "P1739 -  CiNii book ID": {
+    "count": 34,
+    "percent": 0.03222443370296654
+  },
+  "P437 -  distribution": {
+    "count": 34,
+    "percent": 0.03222443370296654
+  },
+  "P2959 -  permanent duplicated item": {
+    "count": 32,
+    "percent": 0.03032887877926263
+  },
+  "P127 -  owned by": {
+    "count": 32,
+    "percent": 0.03032887877926263
+  },
+  "P88 -  commissioned by": {
+    "count": 31,
+    "percent": 0.02938110131741067
+  },
+  "P131 -  located in the administrative territorial entity": {
+    "count": 31,
+    "percent": 0.02938110131741067
+  },
+  "P272 -  production company": {
+    "count": 31,
+    "percent": 0.02938110131741067
+  },
+  "P236 -  ISSN": {
+    "count": 31,
+    "percent": 0.02938110131741067
+  },
+  "P2508 -  KINENOTE film ID": {
+    "count": 30,
+    "percent": 0.028433323855558714
+  },
+  "P162 -  producer": {
+    "count": 30,
+    "percent": 0.028433323855558714
+  },
+  "P3995 -  Filmweb.pl ID": {
+    "count": 28,
+    "percent": 0.0265377689318548
+  },
+  "P625 -  coordinate location": {
+    "count": 28,
+    "percent": 0.0265377689318548
+  },
+  "P1055 -  NLM Unique ID": {
+    "count": 27,
+    "percent": 0.02558999147000284
+  },
+  "P582 -  end time": {
+    "count": 27,
+    "percent": 0.02558999147000284
+  },
+  "P3132 -  last line": {
+    "count": 26,
+    "percent": 0.02464221400815089
+  },
+  "P400 -  platform": {
+    "count": 26,
+    "percent": 0.02464221400815089
+  },
+  "P1114 -  quantity": {
+    "count": 26,
+    "percent": 0.02464221400815089
+  },
+  "P2509 -  Movie Walker ID": {
+    "count": 25,
+    "percent": 0.02369443654629893
+  },
+  "P3827 -  JSTOR topic ID": {
+    "count": 25,
+    "percent": 0.02369443654629893
+  },
+  "P1265 -  AlloCiné film ID": {
+    "count": 25,
+    "percent": 0.02369443654629893
+  },
+  "P691 -  NKCR AUT ID": {
+    "count": 24,
+    "percent": 0.022746659084446973
+  },
+  "P2704 -  EIDR identifier": {
+    "count": 24,
+    "percent": 0.022746659084446973
+  },
+  "P1688 -  AniDB ID": {
+    "count": 23,
+    "percent": 0.021798881622595016
+  },
+  "P1577 -  Gregory-Aland-Number": {
+    "count": 22,
+    "percent": 0.020851104160743057
+  },
+  "P1942 -  McCune-Reischauer romanization": {
+    "count": 21,
+    "percent": 0.0199033266988911
+  },
+  "P344 -  director of photography": {
+    "count": 20,
+    "percent": 0.018955549237039144
+  },
+  "P21 -  sex or gender": {
+    "count": 20,
+    "percent": 0.018955549237039144
+  },
+  "P2437 -  number of seasons": {
+    "count": 20,
+    "percent": 0.018955549237039144
+  },
+  "P3631 -  Babelio work ID": {
+    "count": 19,
+    "percent": 0.018007771775187184
+  },
+  "P4276 -  Cinémathèque québécoise work identifier": {
+    "count": 19,
+    "percent": 0.018007771775187184
+  },
+  "P2631 -  Turner Classic Movies film ID": {
+    "count": 19,
+    "percent": 0.018007771775187184
+  },
+  "P905 -  PORT film ID": {
+    "count": 19,
+    "percent": 0.018007771775187184
+  },
+  "P2334 -  Swedish Film Database film ID": {
+    "count": 19,
+    "percent": 0.018007771775187184
+  },
+  "P2346 -  Elonet movie ID": {
+    "count": 18,
+    "percent": 0.01705999431333523
+  },
+  "P2284 -  price": {
+    "count": 18,
+    "percent": 0.01705999431333523
+  },
+  "P2001 -  Revised Romanization": {
+    "count": 18,
+    "percent": 0.01705999431333523
+  },
+  "P2638 -  TV.com ID": {
+    "count": 18,
+    "percent": 0.01705999431333523
+  },
+  "P3302 -  Open Media Database film ID": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P2924 -  Great Russian Encyclopedia Online ID": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P2283 -  uses": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P1191 -  date of first performance": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P1234 -  ISFDB publication ID": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P3710 -  Jewish Encyclopedia Daat ID": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P1687 -  Wikidata property": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P1235 -  ISFDB series ID": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P1256 -  Iconclass notation": {
+    "count": 17,
+    "percent": 0.01611221685148327
+  },
+  "P3222 -  NE.se ID": {
+    "count": 16,
+    "percent": 0.015164439389631315
+  },
+  "P2014 -  MoMA artwork id": {
+    "count": 16,
+    "percent": 0.015164439389631315
+  },
+  "P3844 -  Deutsche Synchronkartei film ID": {
+    "count": 16,
+    "percent": 0.015164439389631315
+  },
+  "P154 -  logo image": {
+    "count": 15,
+    "percent": 0.014216661927779357
+  },
+  "P576 -  dissolved, abolished or demolished": {
+    "count": 15,
+    "percent": 0.014216661927779357
+  },
+  "P106 -  occupation": {
+    "count": 15,
+    "percent": 0.014216661927779357
+  },
+  "P1438 -  Jewish Encyclopedia ID (Russian)": {
+    "count": 15,
+    "percent": 0.014216661927779357
+  },
+  "P3308 -  lib.reviews ID": {
+    "count": 15,
+    "percent": 0.014216661927779357
+  },
+  "P1695 -  NLP ID": {
+    "count": 15,
+    "percent": 0.014216661927779357
+  },
+  "P248 -  stated in": {
+    "count": 14,
+    "percent": 0.0132688844659274
+  },
+  "P433 -  issue": {
+    "count": 14,
+    "percent": 0.0132688844659274
+  },
+  "P2438 -  narrator": {
+    "count": 14,
+    "percent": 0.0132688844659274
+  },
+  "P2348 -  time period": {
+    "count": 14,
+    "percent": 0.0132688844659274
+  },
+  "P1219 -  Internet Broadway Database show ID": {
+    "count": 13,
+    "percent": 0.012321107004075444
+  },
+  "P2670 -  has parts of the class": {
+    "count": 13,
+    "percent": 0.012321107004075444
+  },
+  "P1071 -  location of final assembly": {
+    "count": 13,
+    "percent": 0.012321107004075444
+  },
+  "P1190 -  Universal Decimal Classification": {
+    "count": 13,
+    "percent": 0.012321107004075444
+  },
+  "P463 -  member of": {
+    "count": 13,
+    "percent": 0.012321107004075444
+  },
+  "P611 -  religious order": {
+    "count": 13,
+    "percent": 0.012321107004075444
+  },
+  "P3241 -  Catholic Encyclopedia ID": {
+    "count": 12,
+    "percent": 0.011373329542223486
+  },
+  "P737 -  influenced by": {
+    "count": 12,
+    "percent": 0.011373329542223486
+  },
+  "P3181 -  OpenCitations bibliographic resource ID": {
+    "count": 12,
+    "percent": 0.011373329542223486
+  },
+  "P1946 -  National Library of Ireland authority": {
+    "count": 12,
+    "percent": 0.011373329542223486
+  },
+  "P3107 -  LdiF ID": {
+    "count": 12,
+    "percent": 0.011373329542223486
+  },
+  "P3794 -  Dictionary of Sydney ID": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P2739 -  typeface/font": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P2187 -  BiblioNet publication ID": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P608 -  exhibition history": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P1574 -  exemplar of": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P989 -  spoken text audio": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P1267 -  AlloCiné series ID": {
+    "count": 11,
+    "percent": 0.010425552080371528
+  },
+  "P282 -  writing system": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P421 -  located in time zone": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P793 -  significant event": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P972 -  catalog": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P859 -  sponsor": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P1065 -  archive URL": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P4230 -  Sefaria ID": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P1881 -  list of characters": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P3868 -  MyDramaList title ID": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P2163 -  FAST ID": {
+    "count": 10,
+    "percent": 0.009477774618519572
+  },
+  "P178 -  developer": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P19 -  place of birth": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P1319 -  earliest date": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P687 -  BHL Page ID": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P3933 -  Cinema ID": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P213 -  ISNI": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P727 -  Europeana ID": {
+    "count": 9,
+    "percent": 0.008529997156667616
+  },
+  "P3212 -  ISAN": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P1375 -  NSK ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P1954 -  Discogs master ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P3593 -  AFI Catalog of Feature Films ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P1040 -  film editor": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P569 -  date of birth": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P1365 -  replaces": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P3123 -  Stanford Encyclopedia of Philosophy ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P140 -  religion": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P4529 -  Douban Movie ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P4549 -  ARLIMA ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P4431 -  Google Doodle": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P1640 -  curator": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P3929 -  V&A art work ID": {
+    "count": 8,
+    "percent": 0.0075822196948156576
+  },
+  "P3702 -  Catalogue of Illuminated Manuscripts ID": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P69 -  educated at": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1874 -  Netflix ID": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1670 -  LAC ID": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P2623 -  MEK ID": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1407 -  MusicBrainz series ID": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P404 -  game mode": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1441 -  present in work": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P460 -  said to be the same as": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1474 -  Nupill Literatura Digital - Document": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1014 -  AAT ID": {
+    "count": 7,
+    "percent": 0.0066344422329637
+  },
+  "P1981 -  FSK film rating": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P805 -  statement is subject of": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P839 -  IMSLP ID": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P1366 -  replaced by": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P827 -  BBC programme ID": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P1773 -  attributed to": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P574 -  date of taxon name publication": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P2067 -  mass": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P1269 -  facet of": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P1807 -  Great Aragonese Encyclopedia ID": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P51 -  audio": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P434 -  MusicBrainz artist ID": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P2683 -  Bekker Number": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P4086 -  MyAnimeList anime ID": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P3155 -  Runeberg book ID": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P585 -  point in time": {
+    "count": 6,
+    "percent": 0.005686664771111743
+  },
+  "P264 -  record label": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P915 -  filming location": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P2689 -  BARTOC ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P1890 -  BNC ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P2061 -  aspect ratio": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P1896 -  source website for the property": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P4181 -  GujLit Book ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P3893 -  public domain date": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P2185 -  DLI ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P1804 -  DNF film ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P287 -  designed by": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P4258 -  Gallica ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P1638 -  codename": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P189 -  location of discovery": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P3962 -  Global Trade Item Number": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P112 -  founded by": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P1552 -  has quality": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P3265 -  Myspace ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P4780 -  MYmovies movie ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P1448 -  official name": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P4632 -  Bechdel Test Movie List ID": {
+    "count": 5,
+    "percent": 0.004738887309259786
+  },
+  "P570 -  date of death": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P2680 -  author of afterword": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P948 -  page banner": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P3906 -  Ishim ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P3675 -  Hans Christian Andersen Centre work ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P2913 -  date depicted": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P1189 -  Chinese Library Classification": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P607 -  conflict": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P894 -  zbMATH work ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P108 -  employer": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P508 -  BNCF Thesaurus": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P1580 -  University of Barcelona authority ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P1051 -  PSH ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P2963 -  Goodreads author ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P1260 -  Cultural heritage database in Sweden ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P3804 -  TV Guide show ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P3145 -  Sratim ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P2554 -  production designer": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P518 -  applies to part": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P1566 -  GeoNames ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P3939 -  ESTC citation number": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P854 -  reference URL": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P4517 -  ctext work ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P1684 -  inscription": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P4438 -  BFI Film and TV ID": {
+    "count": 4,
+    "percent": 0.0037911098474078288
+  },
+  "P4327 -  BHL bibliography ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P4480 -  INDUCKS publication ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1163 -  media type": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2511 -  MSK Gent work PID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2534 -  defining formula": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2360 -  intended public": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P27 -  country of citizenship": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P902 -  HDS ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P3035 -  ISBN publisher prefix": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1392 -  ComicBookDB ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2354 -  has list": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1712 -  Metacritic ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1608 -  Dialnet book ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P3943 -  Tumblr ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1015 -  BIBSYS ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P4746 -  Elhuyar ZTH ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P159 -  headquarters location": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P3194 -  INA video ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1006 -  National Thesaurus for Author Names ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2879 -  Library of the National Congress of Argentina ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2125 -  Revised Hepburn romanization": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2439 -  language": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P137 -  operator": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P3931 -  copyright owner": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1042 -  ZDB ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1482 -  Stack Exchange tag": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P706 -  located on terrain feature": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P898 -  IPA transcription": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2003 -  Instagram username": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P3129 -  cine.gr film ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P4087 -  MyAnimeList manga ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2582 -  J. Paul Getty Museum object ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1431 -  executive producer": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1842 -  Global Anabaptist Mennonite Encyclopedia Online ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1581 -  official blog": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1877 -  after a work by": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P4212 -  PACTOLS thesaurus ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2754 -  production date": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P2007 -  ZooBank publication ID": {
+    "count": 3,
+    "percent": 0.0028433323855558716
+  },
+  "P1439 -  Norsk filmografi ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3553 -  Zhihu topic ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P30 -  continent": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P760 -  DPLA ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P963 -  streaming media URL": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P4020 -  ISQ dimension": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P870 -  instrumentation": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3141 -  EDb film ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3383 -  film poster": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1001 -  applies to jurisdiction": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3203 -  Ciné-Ressources film ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1326 -  latest date": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P486 -  MeSH ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1151 -  topic's main Wikimedia portal": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P698 -  PubMed ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P149 -  architectural style": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P853 -  CERO rating": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P889 -  Mathematical Reviews ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2880 -  NIOSHTIC-2 ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2043 -  length": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P176 -  manufacturer": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1412 -  languages spoken, written or signed": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2515 -  costume designer": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3509 -  Dagens Nyheter topic ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1651 -  YouTube video ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P575 -  time of discovery": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P4282 -  LUMIERE film ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3768 -  Medieval Libraries of Great Britain ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1207 -  NUKAT (WarsawU) authorities": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1451 -  motto text": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3065 -  RERO ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3332 -  ACM Digital Library citation ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1729 -  AllMusic album ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2755 -  exploitation visa number": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2610 -  thickness": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P4665 -  Cinemagia film ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P4483 -  INDUCKS story ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P408 -  software engine": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1823 -  BAnQ work ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2339 -  BoardGameGeek ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2596 -  culture": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P4399 -  Enciclopédia Itaú Cultural ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2518 -  Scope.dk film ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2703 -  BFI work ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2441 -  literal translation": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P800 -  notable work": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1436 -  collection or exhibition size": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P740 -  location of formation": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P1028 -  donated by": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2639 -  Filmportal ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P3762 -  openMLOL author ID": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P2540 -  Aarne–Thompson–Uther Tale Type Index": {
+    "count": 2,
+    "percent": 0.0018955549237039144
+  },
+  "P4702 -  Google Arts & Culture partner ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2607 -  BookBrainz creator ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4436 -  The Coptic Library ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1142 -  political ideology": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P998 -  DMOZ ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1225 -  US National Archives Identifier": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1080 -  from fictional universe": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2579 -  studied by": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4013 -  Giphy username": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P87 -  librettist": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P61 -  discoverer or inventor": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2910 -  icon": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4239 -  vocalized name": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3732 -  PhilPapers record": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2624 -  MetroLyrics ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2667 -  corresponding template": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2206 -  Discogs release ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3218 -  Auñamendi ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2561 -  name": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P942 -  theme music": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3912 -  newspaper format": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1557 -  manifestation of": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3221 -  NYT topic ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P37 -  official language": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3320 -  board member": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1728 -  AllMusic artist ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2578 -  studies": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2315 -  comment (DEPRECATED)": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4101 -  dissertation submitted to": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2878 -  Minitel code": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1445 -  fictional universe described in": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P703 -  found in taxon": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3106 -  Guardian topic ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P710 -  participant": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2397 -  YouTube channel ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1184 -  handle": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2000 -  CPDL ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4277 -  Daum movie ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P20 -  place of death": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P947 -  RSL ID (person)": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P523 -  temporal range start": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1934 -  Animator.ru film ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2812 -  MathWorld identifier": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1430 -  OpenPlaques subject ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P39 -  position held": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3338 -  Encyclopedia of Surfing ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2847 -  Google+ ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1054 -  NDL bib ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2019 -  AllMovie artist ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2984 -  Snapchat username": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3836 -  Pinterest username": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4109 -  URN-NBN": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4003 -  official Facebook page": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3183 -  WSJ topic ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1711 -  British Museum person-institution": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3381 -  File Format Wiki page ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3576 -  TLG author ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P746 -  date of disappearance": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1315 -  People Australia ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P443 -  pronunciation audio": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1387 -  political alignment": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1455 -  list of works": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4073 -  Wikia wiki ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2747 -  Filmiroda rating": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2044 -  elevation above sea level": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1733 -  Steam Application ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1074 -  fictional analog of": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1659 -  see also": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P485 -  archives at": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2664 -  units sold": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P669 -  located on street": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3996 -  Bait La Zemer Ha-Ivri song ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4035 -  Shironet song ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1299 -  depicted by": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2234 -  volume as quantity": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1092 -  total produced": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1236 -  Parsons code": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4354 -  search formatter URL": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P277 -  programming language": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2701 -  file format": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3180 -  Visual Novel Database ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1353 -  original spelling": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P664 -  organizer": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3254 -  property proposal discussion": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P134 -  has dialect": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4535 -  EUTA theatre ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P371 -  presenter": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3961 -  Unifrance film ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4515 -  Prisma ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2633 -  geography of topic": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P172 -  ethnic group": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3579 -  Sina Weibo ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3495 -  FilmPolski.pl ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1462 -  standards body": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2079 -  fabrication method": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P642 -  of": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4760 -  LTI Korea Library ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1216 -  National Heritage List for England number": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4329 -  Wikimedia template that populates this category": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3365 -  Treccani ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2883 -  HKMDb film ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P547 -  commemorates": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3280 -  BanQ author ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1160 -  ISO 4 abbreviation": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3185 -  VKontakte username": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3112 -  DistroWatch ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2037 -  GitHub username": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P348 -  software version": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1766 -  place name sign": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2715 -  elected in": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1237 -  Box Office Mojo film ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2363 -  NMHH film rating": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3135 -  elCinema film ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3650 -  JMK film rating": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P3808 -  The Numbers movie ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P126 -  maintained by": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P913 -  notation": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4272 -  DPLA subject ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1953 -  Discogs artist ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2896 -  publication interval": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P749 -  parent organization": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P792 -  chapter": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1012 -  including": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P4484 -  INDUCKS issue ID": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P735 -  given name": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P1056 -  product or material produced": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  },
+  "P2318 -  debut participant": {
+    "count": 1,
+    "percent": 0.0009477774618519572
+  }
+}
